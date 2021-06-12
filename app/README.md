@@ -1,3 +1,3 @@
 # Public Website
-This is the public website for Out of Bounds!
+This is the public website for a base application!
 
